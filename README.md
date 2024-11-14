@@ -10,7 +10,7 @@ To study and verify the truth table of logic gates in Quartus II using Verilog p
 
 Software – Quartus prime 
 
-# Theory
+# THEORY
 
 Introduction Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
@@ -51,7 +51,7 @@ Ex-NOR gate
 The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will give a low output if either, but not both of its two inputs are high. The symbol is an EX-OR gate with a small circle on the output. The small circle represents inversion.
 Y= A⊕B
 
-# Procedure
+# PROCEDURE
 
 1.	Type the program in Quartus software.
 
@@ -65,32 +65,19 @@ Y= A⊕B
 
 
 # PROGRAM
-
-Program for logic gates and verify its truth table in quartus using Verilog programming
-module Logicgate(a,b,notgate,andgate,orgate,nandgate,norgate,xorgate,xnorgate);
-input a,b;
-output notgate,andgate,orgate,nandgate,norgate,xorgate,xnorgate;
-not(notgate,a);
-and(andgate,a,b);
-or(orgate,a,b);
-nand(nandgate,a,b);
-nor(norgate,a,b);
-xor(xorgate,a,b);
-xnor(xnorgate,a,b);
-endmodule 
+![WhatsApp Image 2024-11-14 at 13 44 22](https://github.com/user-attachments/assets/3c87f750-1fcf-4474-abd8-efac165bdc0b)
 
 
- Developed by: RegisterNumber: 
- 
-# Logic symbol & Truthtable
+
+# LOGIC SYMBOL & TRUTHTABLE
 ![image](https://github.com/user-attachments/assets/e08bde13-fc47-40bf-a242-564bd286efe1)
-
-# RTL realization Output: 
-![Screenshot 2024-10-28 113030](https://github.com/user-attachments/assets/ec27428a-5716-4367-a966-bb60fd3d0ad2)
 
 # RTL
 ![Screenshot 2024-10-28 113103](https://github.com/user-attachments/assets/27f8e666-10e8-4389-b9bc-588361a30826)
 
-# Result:
+# RTL REALIZATION OUTPUT: 
+![Screenshot 2024-10-28 113030](https://github.com/user-attachments/assets/ec27428a-5716-4367-a966-bb60fd3d0ad2)
+
+# RESULT :
 studied and verified the truth table of logic gates in Quartus II using Verilog programming,verified successfully.
 
