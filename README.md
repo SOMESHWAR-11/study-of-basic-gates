@@ -1,16 +1,17 @@
-### NAME:SOMESHWAR S
-### REGNO:24006709
-# Experiment1: Study of Logic Gates
+**NAME:SOMESHWAR S**
 
-# AIM: 
+**REGNO:24006709**
+## Experiment1: Study of Logic Gates
+
+## AIM: 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
 
-# EQUIPMENT REQUIRED:
+## EQUIPMENT REQUIRED:
 
 Software – Quartus prime 
 
-# THEORY
+## THEORY
 
 Introduction Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
@@ -51,7 +52,7 @@ Ex-NOR gate
 The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will give a low output if either, but not both of its two inputs are high. The symbol is an EX-OR gate with a small circle on the output. The small circle represents inversion.
 Y= A⊕B
 
-# PROCEDURE
+## PROCEDURE
 
 1.	Type the program in Quartus software.
 
@@ -64,20 +65,20 @@ Y= A⊕B
 5.	For different input combinations generate the timing diagram.
 
 
-# PROGRAM
+## PROGRAM
 ![WhatsApp Image 2024-11-14 at 13 44 22](https://github.com/user-attachments/assets/3c87f750-1fcf-4474-abd8-efac165bdc0b)
 
 
 
-# LOGIC SYMBOL & TRUTHTABLE
+## LOGIC SYMBOL & TRUTHTABLE
 ![image](https://github.com/user-attachments/assets/e08bde13-fc47-40bf-a242-564bd286efe1)
 
-# RTL
+## RTL
 ![Screenshot 2024-10-28 113103](https://github.com/user-attachments/assets/27f8e666-10e8-4389-b9bc-588361a30826)
 
-# RTL REALIZATION OUTPUT: 
+## RTL REALIZATION OUTPUT: 
 ![Screenshot 2024-10-28 113030](https://github.com/user-attachments/assets/ec27428a-5716-4367-a966-bb60fd3d0ad2)
 
-# RESULT :
+## RESULT :
 studied and verified the truth table of logic gates in Quartus II using Verilog programming,verified successfully.
 
