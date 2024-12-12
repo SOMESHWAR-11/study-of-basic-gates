@@ -1,7 +1,7 @@
 **NAME:SOMESHWAR S**
 
 **REGNO:24006709**
-## Experiment1: Study of Logic Gates
+## EXPERIMENT 1: STUDY OF LOGIC GATES
 
 ## AIM: 
 
